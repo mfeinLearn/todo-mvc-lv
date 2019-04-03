@@ -23,7 +23,6 @@ ListController
 Does it impact the DB?
 Does it impact my URLS? '/lists/1'
 
-
 # Step whatever: Fix Down Arrow on Make a List Form
 
 ***Feature Story***
